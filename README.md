@@ -15,7 +15,7 @@
    The time is now Sat Nov 11 03:15:59 CST 2017
    ```
    
-* Weather: `!weather _zipcode_`
+* Weather: `!weather (zipcode)`
 
    Example:
    ```
@@ -24,7 +24,7 @@
    ```
    **Note:** This currently only supports US zip codes.
    
-* Shorten URL: `!short _URL_`
+* Shorten URL: `!short (URL)`
 
    Example:
    ```
