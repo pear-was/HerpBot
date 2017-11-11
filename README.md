@@ -7,20 +7,20 @@
 * Shortens user-submitted URL
 
 ## Usage:
-* #### Time: `!time`
+* Time: `!time`
    Example:
    ```
    !time
    The time is now Sat Nov 11 03:15:59 CST 2017
    ```
-* #### Weather: `!weather _zipcode_`
+* Weather: `!weather _zipcode_`
    Example:
    ```
    !weather 75080
    The temperature in Richardson is 57F and the current conditions are: overcast clouds
    ```
    **Note:** This currently only supports US zip codes.
-* #### Shorten URL: `!short _URL_`
+* Shorten URL: `!short _URL_`
    Example:
    ```
    !short http://itisamystery.com/
