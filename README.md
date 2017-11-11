@@ -35,7 +35,7 @@
 ## Notes:
 Utilizes a typical IRC method of recognizing user commands to the bot by using `!command`, to avoid confusion.
 
-By default connects to the `#herpbottest` channel on `irc.freenode.net` as `HerpBot`. This can be changed in `HerpBot.java`.
+By default connects to the `#herpbottest` channel on `irc.freenode.net` as `HerpBot`. This can be changed in `HerpBotMain.java`.
 
 This was a project done for my CS2336 class.
 
